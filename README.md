@@ -148,10 +148,4 @@ Possible extensions to explore:
 - Statistics file export (CSV/JSON)
 - Performance prediction and optimization suggestions
 
-## Compilation Notes
-
-- Requires C++11 or later
-- Standard library only (no external dependencies)
-- Tested with GCC, Clang, and MSVC
-- Cross-platform compatible (Windows, Linux, macOS)
 
