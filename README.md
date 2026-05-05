@@ -33,7 +33,6 @@ A comprehensive C++ implementation of CPU process scheduling algorithms with sim
 ├── round_robin_scheduler.h # Round Robin implementation
 ├── priority_scheduler.h    # Priority Scheduling implementation
 ├── main.cpp               # Main program with demo
-├── Makefile               # Build configuration
 └── README.md              # This file
 ```
 
