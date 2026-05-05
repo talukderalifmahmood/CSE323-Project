@@ -1,4 +1,8 @@
-# Process Scheduler for Operating Systems Course
+Name: Talukder Alif Mahmood
+ID: 2233684642
+Section: CSE323.1
+
+Project: Process Scheduler Visualization
 
 A comprehensive C++ implementation of CPU process scheduling algorithms with simulation, timing analysis, and performance statistics.
 
@@ -35,26 +39,13 @@ A comprehensive C++ implementation of CPU process scheduling algorithms with sim
 
 ## Compilation
 
-### Using Makefile (recommended):
-```bash
-make
-```
+On Terminal:
 
-### Manual compilation:
-```bash
+# Compile
 g++ -std=c++11 -o scheduler main.cpp
-```
 
-## Usage
-
-### Run the Program:
-```bash
-./scheduler
-```
-or on Windows:
-```bash
-scheduler.exe
-```
+# Run
+.\scheduler.exe
 
 ### Option 1: Sample Comparison
 - Automatically runs pre-defined sample processes through all four algorithms
@@ -165,16 +156,3 @@ Possible extensions to explore:
 - Tested with GCC, Clang, and MSVC
 - Cross-platform compatible (Windows, Linux, macOS)
 
-## Author Notes
-
-This implementation uses:
-- Object-oriented design with inheritance (Scheduler base class)
-- STL containers (vector, queue, map)
-- Lambda functions for sorting and searching
-- Standard algorithm library functions
-
-The code is well-commented for educational purposes and demonstrates professional C++ programming practices.
-
----
-
-For questions or improvements, consult your course materials or reach out to the course instructor.
